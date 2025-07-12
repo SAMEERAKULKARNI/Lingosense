@@ -1,0 +1,9 @@
+Flask
+flask-cors
+langdetect
+transformers
+torch
+googletrans==4.0.0-rc1
+python-docx
+PyMuPDF
+gunicorn
